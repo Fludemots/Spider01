@@ -1,0 +1,31 @@
+
+	{
+"version": "test v1",
+	"iron": "",
+	
+	"ironId": "",
+	"ironBanner": "DefaultBanner",
+	"ironInter": "DefaultInterstitial",
+	"ironReward": "DefaultRewardedVideo",
+
+
+	"admob": "",
+
+	"AdmobAppId": "ca-app-pub-9045929885488662~5886337218",
+	"interId": "ca-app-pub-9045929885488662/9067034326",
+	"bannerId": "ca-app-pub-9045929885488662/8951484253",
+	"rewardadmob": "ca-app-pub-9045929885488662/9710016243",
+
+	"AppLovin": "",
+	
+	"FanInter": "",
+	"FanBanner": "",
+	"FanReward": "",
+
+	"unity": "",
+	
+	"UnityAppId": "3913829",
+	"UnityInter": "video",
+	"Unitybanner": "banner",
+	"unityreward": "rewardedVideo"
+}
